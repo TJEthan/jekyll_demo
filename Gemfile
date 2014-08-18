@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'gitbub-pages'
+gem 'github-pages'
 
